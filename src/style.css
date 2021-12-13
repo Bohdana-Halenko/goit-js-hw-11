@@ -95,7 +95,7 @@ input {
   height: 20%;
   background-color: #fff;
   font-size: 12px;
-  padding-top: 10px;
+  padding-top: 15px;
 }
 
 .info-item:not(:last-child) {
